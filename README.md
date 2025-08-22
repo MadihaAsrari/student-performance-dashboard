@@ -14,7 +14,6 @@ It provides key insights such as:
 - DAX
 - P0wer BI
 
-# Screenshots
 # Screenshots  
 [Dashboard Preview](https://github.com/user-attachments/assets/c9e1fd26-f414-42f4-9a47-07076c6320c4)
 
